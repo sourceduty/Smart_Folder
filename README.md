@@ -22,7 +22,7 @@ The drop folder serves as a primary entry point where users can add files. Upon 
 
 ***
 
-> Alex: "I don't think I can develop this using Python and I also think it will be developed in the future."
+> Alex: *"I don't think I can develop this using Python and I also think it will be developed in the future."*
 
 #
 ### Related Links
