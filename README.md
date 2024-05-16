@@ -22,10 +22,6 @@ At the heart of the directory system is the automatic folder task program, a cor
 
 The drop folder serves as a primary entry point where users can add files. Upon addition, these files trigger the automatic organization and logging mechanisms of the system. Setting up a designated drop folder and implementing file handling automation scripts can streamline the workflow. These scripts would automatically move files to their appropriate destinations, apply naming and tagging conventions, and update logs and metadata, thereby simplifying the process of file management and ensuring systematic organization.
 
-***
-
-> Alex: *"I don't think I can develop this using Python and I also think it will be developed in the future."*
-
 #
 ### Related Links
 
