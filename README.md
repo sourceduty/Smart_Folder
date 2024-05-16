@@ -23,6 +23,13 @@ At the heart of the directory system is the automatic folder task program, a cor
 The drop folder serves as a primary entry point where users can add files. Upon addition, these files trigger the automatic organization and logging mechanisms of the system. Setting up a designated drop folder and implementing file handling automation scripts can streamline the workflow. These scripts would automatically move files to their appropriate destinations, apply naming and tagging conventions, and update logs and metadata, thereby simplifying the process of file management and ensuring systematic organization.
 
 #
+### Smart Folder C++
+
+The provided code implements a "Smart Folder" in C++ for a Windows environment. This program monitors a specific directory for new files and automatically organizes these files into subdirectories based on their extensions. It uses the Windows API to detect changes in the directory and the C++ Standard Library's filesystem utilities to manage files and directories.
+
+To integrate the "Smart Folder" functionality into Windows, you can create a Windows service that continuously monitors a specified directory and organizes files based on their extensions. This approach ensures that the smart folder functionality runs in the background without user intervention and starts automatically with the system.
+
+#
 ### Related Links
 
 [Regulated File Manager](https://github.com/sourceduty/Regulated_File_Manager)
