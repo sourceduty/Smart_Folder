@@ -38,6 +38,10 @@ The provided code implements a "Smart Folder" in C++ for a Windows environment. 
 To integrate the "Smart Folder" functionality into Windows, you can create a Windows service that continuously monitors a specified directory and organizes files based on their extensions. This approach ensures that the smart folder functionality runs in the background without user intervention and starts automatically with the system.
 
 #
+
+> Alex: *"This is an innovative idea for automating file organization inside of folders. I like it."*
+
+#
 ### Related Links
 
 [Regulated File Manager](https://github.com/sourceduty/Regulated_File_Manager)
