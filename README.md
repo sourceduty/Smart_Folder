@@ -1,6 +1,6 @@
 ![Smart Folder](https://github.com/sourceduty/Smart_Folder/assets/123030236/81975a10-16ba-4a5b-aff2-937a5b3b11ee)
 
-> Conceptual programmable file folder that automatically organizes the files inside of it.
+> Programmable file folder that automatically organizes the files inside of it.
 
 #
 ### Programmed Directory and Tasks
