@@ -62,6 +62,10 @@ By examining these four dimensions—usability, efficiency, satisfaction, and im
 [Regulated File Manager](https://github.com/sourceduty/Regulated_File_Manager)
 <br>
 [Rename](https://github.com/sourceduty/Rename)
+<br>
+[Sequenced File Folders](https://github.com/sourceduty/Sequenced_File_Folders)
+<br>
+[File Automation](https://github.com/sourceduty/File_Automation)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
