@@ -38,6 +38,11 @@ The provided code implements a "Smart Folder" in C++ for a Windows environment. 
 To integrate the "Smart Folder" functionality into Windows, you can create a Windows service that continuously monitors a specified directory and organizes files based on their extensions. This approach ensures that the smart folder functionality runs in the background without user intervention and starts automatically with the system.
 
 #
+### Python Directory Organizer
+
+This Python script automates the organization of project files into a structured directory layout suitable for Python projects. It first defines a templated directory structure with folders like src, tests, docs, and more, ensuring an organized workspace. The script scans a user-provided source directory for files and categorizes them based on their names and extensions using the categorize_file function. For example, files starting with test_ are moved to tests, .py files to src, and .ipynb files to notebooks. It then creates the necessary folders in the target directory and moves the files to their respective locations. This tool simplifies project management by maintaining a clear and consistent directory hierarchy, making it easier to locate files and manage projects efficiently.
+
+#
 ### Improvement Value
 
 Measuring the Improvement Value (IV) of the "Programmable File Folder that Automatically Organizes Files" concept can be accomplished by evaluating it across four key dimensions: usability, efficiency, satisfaction, and impact. Each of these dimensions highlights a critical aspect of the system's performance and value.
