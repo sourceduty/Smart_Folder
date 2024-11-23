@@ -71,6 +71,8 @@ By examining these four dimensions—usability, efficiency, satisfaction, and im
 [Sequenced File Folders](https://github.com/sourceduty/Sequenced_File_Folders)
 <br>
 [File Automation](https://github.com/sourceduty/File_Automation)
+<br>
+[OS Automation](https://github.com/sourceduty/OS_Automation)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
